@@ -5,5 +5,6 @@ public class helll {
         System.out.println("hhhhh");
         System.out.println("wwwww");
         System.out.println("hot");
+        System.out.println("master");
     }
 }
