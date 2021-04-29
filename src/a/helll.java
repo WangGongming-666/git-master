@@ -6,5 +6,7 @@ public class helll {
         System.out.println("wwwww");
         System.out.println("hot");
         System.out.println("master");
+        System.out.println("push test");
+
     }
 }
